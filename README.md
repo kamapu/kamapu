@@ -11,8 +11,6 @@
 
 ## My Top Languages
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamapu&layout=compact)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamapu&exclude_repo=kamapu,kamapu.github.io)](https://github.com/kamapu/github-readme-stats)
 
 ## My Stack Overflow Stats

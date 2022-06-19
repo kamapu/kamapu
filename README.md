@@ -4,9 +4,10 @@
 - 👯 I’m looking to collaborate on: Bioinformatics, Biodiversity, Syntaxonomy, Plant Ecology.
 - 💬 Ask me about: R, GIS, PostgreSQL.
 - :page_facing_up: Visit my research profiles:
-  [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-blue.svg)](https://scholar.google.de/citations?user=z29UaXQAAAAJ&hl)
+  [![ORCID](https://img.shields.io/badge/RG-M_Alvarez-brightgreen.svg)](https://www.researchgate.net/profile/Miguel-Alvarez-9)
   [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1500--1834-green.svg)](https://orcid.org/0000-0003-1500-1834)
-
+  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-M_Alvarez-blue.svg)](https://scholar.google.de/citations?user=z29UaXQAAAAJ&hl)
+  
 ## My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kamapu&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>

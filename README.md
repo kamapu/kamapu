@@ -3,6 +3,7 @@
 - 👯 I’m looking to collaborate on: Bioinformatics, Biodiversity, Syntaxonomy, Plant Ecology.
 - 💬 Ask me about: R, GIS, PostgreSQL.
 - 😄 Pronouns: He/Him.
+- :page_facing_up: Visit my research profiles: [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-profile-blue.svg)](https://scholar.google.de/citations?user=z29UaXQAAAAJ&hl)
 
 ## My Github Stats
 

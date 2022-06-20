@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on: Bioinformatics, Biodiversity, Syntaxonomy, Plant Ecology.
 - 💬 Ask me about: R, GIS, PostgreSQL.
 - :page_facing_up: Visit my research profiles:\
-  [![Research Gate](https://img.shields.io/badge/Research_Gate-M_Alvarez-brightgreen.svg)](https://www.researchgate.net/profile/Miguel-Alvarez-9)
+  [![Research Gate](https://img.shields.io/badge/Research_Gate-M_Alvarez-brightgreen.svg)](https://www.researchgate.net/profile/Miguel-Alvarez-9)\
   [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1500--1834-green.svg)](https://orcid.org/0000-0003-1500-1834)\
   [![Google Scholar](https://img.shields.io/badge/Google_Scholar-M_Alvarez-blue.svg)](https://scholar.google.de/citations?user=z29UaXQAAAAJ&hl)
   

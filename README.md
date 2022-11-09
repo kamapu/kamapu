@@ -7,7 +7,12 @@
   [![Research Gate](https://img.shields.io/badge/Research_Gate-M_Alvarez-brightgreen.svg)](https://www.researchgate.net/profile/Miguel-Alvarez-9)\
   [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1500--1834-green.svg)](https://orcid.org/0000-0003-1500-1834)\
   [![Google Scholar](https://img.shields.io/badge/Google_Scholar-M_Alvarez-blue.svg)](https://scholar.google.de/citations?user=z29UaXQAAAAJ&hl)
-  
+
+## Become a Supporter
+
+Do you enjoy my projects? Then consider to [invite me for a coffee](https://www.buymeacoffee.com/kamapu).
+
+
 ## My Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=kamapu&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>

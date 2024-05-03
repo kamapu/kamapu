@@ -15,6 +15,7 @@ format: gfm
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-M_Alvarez-4285F4.svg?logo=googlescholar)](https://scholar.google.de/citations?user=z29UaXQAAAAJ&hl)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1500--1834-A6CE39.svg?logo=orcid)](https://orcid.org/0000-0003-1500-1834)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-M_Alvarez-0A66C2.svg?logo=linkedin)](https://www.linkedin.com/in/miguel-alvarez-49559b145/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-kamapu-6364FF.svg?logo=mastodon)](https://social.cologne/@kamapu)
 [![Buymeacoffee](https://img.shields.io/badge/Buymeacoffee-kamapu-FFDD00.svg?logo=buymeacoffee)](https://www.buymeacoffee.com/kamapu)
 
